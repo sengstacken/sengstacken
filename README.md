@@ -11,6 +11,7 @@ Technical Skills
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Machine Learning solutions on AWS
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Machine Learning solutions on AWS SageMaker
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/sengstacken/)
+
 
